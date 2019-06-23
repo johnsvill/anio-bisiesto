@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\bin\Debug\EsBisiesto.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\bin\Debug\EsBisiesto.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\bin\Debug\EsBisiesto.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\obj\Debug\EsBisiesto.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\obj\Debug\EsBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\obj\Debug\EsBisiesto.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\EsBisiesto\EsBisiesto\obj\Debug\EsBisiesto.pdb
